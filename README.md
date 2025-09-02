@@ -1,7 +1,6 @@
 # Acivity-1
 
 No. 1
-
 #include <iostream>
 using namespace std;
 int main()
@@ -27,7 +26,6 @@ int main()
 
 
 No.2
-
 #include <iostream>
 using namespace std;
 int main()
@@ -53,7 +51,6 @@ int main()
 
 
 No.3
-
 #include <iostream>
 using namespace std;
 int main()
